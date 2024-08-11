@@ -1,6 +1,4 @@
-# Swedish_Economic_Analysis
-
-# Sweden Economic Indicators Analysis and Predictive Modeling
+# Sweden Economic Analysis
 
 ## Project Overview
 
