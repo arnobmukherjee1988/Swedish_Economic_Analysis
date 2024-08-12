@@ -11,10 +11,10 @@ The datas used in this project are directly collection from the World Bank websi
 - [data_collection.ipynb](https://github.com/arnobmukherjee1988/Swedish_Economic_Analysis/blob/main/data_collection.ipynb)
   1. Data collection code. 
   2. It downloads world-wide data of,
-    [Current account balance (% of GDP)](https://github.com/arnobmukherjee1988/Swedish_Economic_Analysis/tree/main/API_BN.CAB.XOKA.GD.ZS_DS2_en_csv_v2_2788804),
-    [Inflation, consumer prices (annual %)](https://github.com/arnobmukherjee1988/Swedish_Economic_Analysis/tree/main/API_FP.CPI.TOTL.ZG_DS2_en_csv_v2_2789055),
-    [GDP (current US$)](https://github.com/arnobmukherjee1988/Swedish_Economic_Analysis/tree/main/API_NY.GDP.MKTP.CD_DS2_en_csv_v2_2788787),
-    [Unemployment, total (% of total labor force)](https://github.com/arnobmukherjee1988/Swedish_Economic_Analysis/tree/main/API_SL.UEM.TOTL.NE.ZS_DS2_en_csv_v2_2817174)
+    (a) [Current account balance (% of GDP)](https://github.com/arnobmukherjee1988/Swedish_Economic_Analysis/tree/main/API_BN.CAB.XOKA.GD.ZS_DS2_en_csv_v2_2788804),
+    (b) [Inflation, consumer prices (annual %)](https://github.com/arnobmukherjee1988/Swedish_Economic_Analysis/tree/main/API_FP.CPI.TOTL.ZG_DS2_en_csv_v2_2789055),
+    (c) [GDP (current US$)](https://github.com/arnobmukherjee1988/Swedish_Economic_Analysis/tree/main/API_NY.GDP.MKTP.CD_DS2_en_csv_v2_2788787),
+    (d) [Unemployment, total (% of total labor force)](https://github.com/arnobmukherjee1988/Swedish_Economic_Analysis/tree/main/API_SL.UEM.TOTL.NE.ZS_DS2_en_csv_v2_2817174)
   3. Extract data only relevent for Sweden and merged to create time-series in "[Sweden_data.csv](https://github.com/arnobmukherjee1988/Swedish_Economic_Analysis/blob/main/Sweden_data.csv)".
 
 - [data_preprossing.ipynb](https://github.com/arnobmukherjee1988/Swedish_Economic_Analysis/blob/main/data_preprossing.ipynb)
