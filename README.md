@@ -6,22 +6,23 @@ This project analyzes key economic indicators for Sweden, including GDP (current
 
 ## Sources
 
-The datas used in this project are directly collection from the World Bank website (https://data.worldbank.org/country/sweden).
+The data used in this project are directly collected from the World Bank website (https://data.worldbank.org/country/sweden).
 
 - [data_collection.ipynb](https://github.com/arnobmukherjee1988/Swedish_Economic_Analysis/blob/main/data_collection.ipynb)
   1. Data collection code. 
-  2. It downloads world-wide data of,
-    (a) [Current account balance (% of GDP)](https://github.com/arnobmukherjee1988/Swedish_Economic_Analysis/tree/main/API_BN.CAB.XOKA.GD.ZS_DS2_en_csv_v2_2788804),
-    (b) [Inflation, consumer prices (annual %)](https://github.com/arnobmukherjee1988/Swedish_Economic_Analysis/tree/main/API_FP.CPI.TOTL.ZG_DS2_en_csv_v2_2789055),
-    (c) [GDP (current US$)](https://github.com/arnobmukherjee1988/Swedish_Economic_Analysis/tree/main/API_NY.GDP.MKTP.CD_DS2_en_csv_v2_2788787),
-    (d) [Unemployment, total (% of total labor force)](https://github.com/arnobmukherjee1988/Swedish_Economic_Analysis/tree/main/API_SL.UEM.TOTL.NE.ZS_DS2_en_csv_v2_2817174)
-  3. Extract data only relevent for Sweden and merged to create time-series in "[Sweden_data.csv](https://github.com/arnobmukherjee1988/Swedish_Economic_Analysis/blob/main/Sweden_data.csv)".
+  2. It downloads world-wide data of,  
+    (a) [Current account balance (% of GDP)](https://github.com/arnobmukherjee1988/Swedish_Economic_Analysis/tree/main/API_BN.CAB.XOKA.GD.ZS_DS2_en_csv_v2_2788804),  
+    (b) [Inflation, consumer prices (annual %)](https://github.com/arnobmukherjee1988/Swedish_Economic_Analysis/tree/main/API_FP.CPI.TOTL.ZG_DS2_en_csv_v2_2789055),  
+    (c) [GDP (current US$)](https://github.com/arnobmukherjee1988/Swedish_Economic_Analysis/tree/main/API_NY.GDP.MKTP.CD_DS2_en_csv_v2_2788787),  
+    (d) [Unemployment, total (% of total labor force)](https://github.com/arnobmukherjee1988/Swedish_Economic_Analysis/tree/main/API_SL.UEM.TOTL.NE.ZS_DS2_en_csv_v2_2817174)  
+  3. Extract data only relevant for Sweden and merged to create time-series in "[Sweden_data.csv](https://github.com/arnobmukherjee1988/Swedish_Economic_Analysis/blob/main/Sweden_data.csv)".
 
 - [data_preprossing.ipynb](https://github.com/arnobmukherjee1988/Swedish_Economic_Analysis/blob/main/data_preprossing.ipynb)
   1. Checking for and handling missing data.
   2. Checking for duplicate entries.
   3. Detecting and visualizing outliers using box plot.
   4. Saving the cleaned and preprocessed data in "[Sweden_data_preprossed.csv](https://github.com/arnobmukherjee1988/Swedish_Economic_Analysis/blob/main/Sweden_data_processed.csv)".
+
 
 ## Project Plan
 
