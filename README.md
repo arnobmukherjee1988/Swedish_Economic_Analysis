@@ -24,12 +24,12 @@ The data used in this project are directly collected from the World Bank website
 
 - Exploratory data analysis code [eda.ipynb](https://github.com/arnobmukherjee1988/Swedish_Economic_Analysis/blob/main/eda.ipynb)
   1. Basis statistics.
-  2. [Data trend]().
-  3. [Correlation matrix]().
-  4. [Scatter plot analysis]().
-  5. [Histogram and distribution check]().
-  6. [Box plot]().
-  7. [Seasonality test]().
+  2. [Data trend](https://github.com/arnobmukherjee1988/Swedish_Economic_Analysis/blob/main/observations_vs_time.pdf).
+  3. [Correlation matrix](https://github.com/arnobmukherjee1988/Swedish_Economic_Analysis/blob/main/corr_matrix.pdf).
+  4. [Scatter plot analysis](https://github.com/arnobmukherjee1988/Swedish_Economic_Analysis/blob/main/scatter_analysis.pdf).
+  5. [Histogram and distribution check](https://github.com/arnobmukherjee1988/Swedish_Economic_Analysis/blob/main/histogram.pdf).
+  6. [Box plot](https://github.com/arnobmukherjee1988/Swedish_Economic_Analysis/blob/main/boxplots.pdf).
+  7. [Seasonality test](https://github.com/arnobmukherjee1988/Swedish_Economic_Analysis/blob/main/observations_vs_time.pdf).
 
 
 ## Project Plan
