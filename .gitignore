@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 .virtual_documents/
+ML.ipynb
 # C extensions
 *.so
 

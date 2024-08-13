@@ -34,46 +34,7 @@ The data used in this project are directly collected from the World Bank website
 
 ## Project Plan
 
-### 1. Data Collection and Preparation (Day 1)
-
-**Objectives:**
-- Extract and prepare data for analysis.
-
-**Steps:**
-- **Extract Data for Sweden:**
-  - Extract data for Sweden from the preprocessed dataset.
-  - Focus on indicators such as GDP (current US$), Inflation (consumer prices, annual %), and Current Account Balance (% of GDP).
-- **Data Cleaning:**
-  - Ensure the datasets are clean, with no missing or anomalous values (already completed in preprocessing).
-  - Align the data by year for consistent analysis across indicators (already completed).
-
-### 2. Exploratory Data Analysis (EDA) (Day 2-3)
-
-**Objectives:**
-- Understand the data through visualizations and correlations.
-
-**Steps:**
-- **Trend Analysis:**
-  - Plot each economic indicator over time to visualize long-term trends.
-  - Identify significant economic events that correlate with changes in these indicators.
-- **Correlation Analysis:**
-  - Analyze correlations between GDP, inflation rate, and current account balance.
-  - Use scatter plots and correlation coefficients to understand interdependencies.
-
-### 3. Visualization (Day 4)
-
-**Objectives:**
-- Develop clear and insightful visualizations to present data trends.
-
-**Steps:**
-- **Time Series Plots:**
-  - Create time series plots for GDP, inflation, and current account balance.
-- **Combined Dashboard:**
-  - Develop a dashboard that presents all three indicators together for comparison and analysis.
-- **Interactive Plots (Optional):**
-  - Create interactive visualizations using Plotly or Dash.
-
-### 4. Basic Machine Learning Models (Day 5-6)
+### 4. Basic Machine Learning Models
 
 **Objectives:**
 - Introduce and apply basic machine learning models to the data.
@@ -91,7 +52,7 @@ The data used in this project are directly collected from the World Bank website
 - **Forecasting (Optional):**
   - Implement ARIMA or Prophet models to predict future trends in GDP, inflation, and current account balance.
 
-### 5. Reporting and Presentation (Day 7)
+### 5. Reporting and Presentation
 
 **Objectives:**
 - Compile and present findings in a professional format.
