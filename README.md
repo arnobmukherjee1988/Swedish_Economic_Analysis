@@ -29,7 +29,7 @@ The data used in this project are directly collected from the World Bank website
   4. [Scatter plot analysis](https://github.com/arnobmukherjee1988/Swedish_Economic_Analysis/blob/main/scatter_analysis.pdf).
   5. [Histogram and distribution check](https://github.com/arnobmukherjee1988/Swedish_Economic_Analysis/blob/main/histogram.pdf).
   6. [Box plot](https://github.com/arnobmukherjee1988/Swedish_Economic_Analysis/blob/main/boxplots.pdf).
-  7. [Seasonality test](https://github.com/arnobmukherjee1988/Swedish_Economic_Analysis/blob/main/observations_vs_time.pdf).
+  7. Seasonality test ==> no seasonality.
 
 
 ## Project Plan
